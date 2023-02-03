@@ -3,3 +3,8 @@ description: A summary of projects I worked on
 theme: just-the-docs
 
 url: https://https://mathematisse.github.io/Portfolio/
+
+callouts:
+  warning:
+    title: Warning
+    color: red
