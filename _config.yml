@@ -20,6 +20,3 @@ callouts:
   note:
     title: Note
     color: purple
-  warning:
-    title: Warning
-    color: red
