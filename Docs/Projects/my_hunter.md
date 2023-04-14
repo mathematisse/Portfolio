@@ -26,9 +26,9 @@ You can **[download the game](https://mathematisse.itch.io/My_Hunter)** from itc
 
 Follow the instructions and launch the game with the following command in the downloaded folder :
 
-``
+```bash
 ./my_hunter
-``
+```
 
 To build it yourself, you will need to **[download the repository](https://github.com/mathematisse/My_Hunter)** from github.
 
@@ -36,9 +36,9 @@ You'll also need [CSFML](https://www.sfml-dev.org/download/csfml/) installed.
 
 Once this is done, run the following command in the unpacked folder :
 
-``
+```bash
 make && ./my_hunter
-``
+```
 
 ___
 
