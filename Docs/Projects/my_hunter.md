@@ -13,10 +13,12 @@ nav_order: 1
 My Hunter is an Epitech project made with [CSFML](https://www.sfml-dev.org/download/csfml/).
 This project was created with the goal of getting to know that graphical library, while reproducing (with some creative freedom) the [Duck Hunt game](https://fr.wikipedia.org/wiki/Duck_Hunt).
 
+___
+
 ## Installation
 
 {: .warning }
-Linux Operating systems ONLY
+**Linux Operating systems ONLY**
 
 
 You can **[download the game](https://mathematisse.itch.io/My_Hunter)** from itch.io to just get the binary and ressources.
@@ -36,9 +38,11 @@ Once this is done, run the following command in the unpacked folder :
 ``
 make && ./my_hunter
 ``
+___
 
 ## Usage
 
+{: .note }
 > Ducks are animal, and like us, they poop.
 > 
 > For some mysterious reasons thousands of ducks started flying just above you.
@@ -65,11 +69,13 @@ Buy upgrades to survive :
 - Lower your laser reload time
 - Enlarge your laser range
 
+___
+
 ## Technical Details
 *Built with CSFML on emacs only.*
 
 {: .important }
-> The code is not meant to be re-used, neither maintained.
+> The code is **not** meant to be re-used.
 > 
 > See my csfml lib if you're looking for usable tools.
 
@@ -80,4 +86,4 @@ On each update, the system iterate through all active ducks and use an "image ba
 Trigonometric functions are used to fastly determine which duck is in range of the laser.
 
 {: .highlight}
-The "Hard" mode spawns more ducks that you can ever kill, but it is a nice showcase of the performances of the game.
+*The "Hard" mode spawns more ducks that you can ever kill, but it is a nice showcase of the performances of the game.*
