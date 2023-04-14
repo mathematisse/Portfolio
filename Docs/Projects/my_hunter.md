@@ -14,6 +14,7 @@ My Hunter is an Epitech project made with [CSFML](https://www.sfml-dev.org/downl
 This project was created with the goal of getting to know that graphical library, while reproducing (with some creative freedom) the [Duck Hunt game](https://fr.wikipedia.org/wiki/Duck_Hunt).
 
 ## Installation
+
 {: .warning }
 Linux Operating systems ONLY
 
