@@ -4,7 +4,7 @@ title: My Hunter
 parent: Projects
 nav_order: 1
 ---
-### Links
+### *Links*
 > [![Itch.io Page](https://img.shields.io/badge/Itch.io-Download_the_game-red?style=for-the-badge&logo=itch.io)](https://mathematisse.itch.io/My_Hunter)
 > 
 > [![GitHub Repo](https://img.shields.io/badge/GitHub-Check_the_repository-blue?style=for-the-badge&logo=github)](https://github.com/mathematisse/My_Hunter)
@@ -12,11 +12,11 @@ nav_order: 1
 # **My Hunter**
 
 My Hunter is an Epitech project made with [CSFML](https://www.sfml-dev.org/download/csfml/).
-This project was created with the goal of getting to know that graphical library, while reproducing (with some creative freedom) the [Duck Hunt game](https://fr.wikipedia.org/wiki/Duck_Hunt).
+This project was created with the goal of getting to know that graphical library, while reproducing *(with some creative freedom)* the [Duck Hunt game](https://fr.wikipedia.org/wiki/Duck_Hunt).
 
 ___
 
-## Installation
+## **- Installation**
 
 {: .warning }
 **Linux Operating systems ONLY**
@@ -24,7 +24,7 @@ ___
 
 You can **[download the game](https://mathematisse.itch.io/My_Hunter)** from itch.io to just get the binary and ressources.
 
-Follow the instructions and launch the game with the following command in the downloaded folder :
+Follow the instructions and launch the game with the following command in the unpacked folder :
 
 ```sh
 ./my_hunter
@@ -42,7 +42,7 @@ make && ./my_hunter
 
 ___
 
-## Usage
+## **- Usage**
 
 {: .note }
 > *Ducks are animals, and like us, they poop.*
@@ -73,7 +73,8 @@ Buy upgrades to survive :
 
 ___
 
-## Technical Details
+## **- Technical Details**
+
 *Built with CSFML on emacs only.*
 
 {: .important }
