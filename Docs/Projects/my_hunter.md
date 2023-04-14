@@ -6,8 +6,8 @@ nav_order: 1
 ---
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Check_the_repository-blue?style=for-the-badge&logo=github)](https://github.com/mathematisse/My_Hunter)
 [![Itch.io Page](https://img.shields.io/badge/Itch.io-Download_the_game-red?style=for-the-badge&logo=itch.io)](https://mathematisse.itch.io/My_Hunter)
+[Download the game](https://github.com/mathematisse/My_Hunter){: .btn .btn-red .mr-32}
 [Check the repository](https://github.com/mathematisse/My_Hunter){: .btn .btn-blue }
-[Download the game](https://github.com/mathematisse/My_Hunter){: .btn .btn-blue }
 # My Hunter
 
 My Hunter is an Epitech project made with [CSFML](https://www.sfml-dev.org/download/csfml/).
@@ -15,7 +15,7 @@ This project was created with the goal of getting to know that graphical library
 
 ## Installation
 {: .warning }
-**Linux Operating systems ONLY**
+Linux Operating systems ONLY
 
 
 You can **[download the game](https://mathematisse.itch.io/My_Hunter)** from itch.io to just get the binary and ressources.
@@ -68,7 +68,9 @@ Buy upgrades to survive :
 *Built with CSFML on emacs only.*
 
 {: .important }
-The code is not meant to be re-used, neither maintained. See my csfml lib if you're looking for usable tools.
+> The code is not meant to be re-used, neither maintained.
+> 
+> See my csfml lib if you're looking for usable tools.
 
 The ducks are represented by simple structs with minimum amout of informations linked to them.
 
@@ -76,5 +78,5 @@ On each update, the system iterate through all active ducks and use an "image ba
 
 Trigonometric functions are used to fastly determine which duck is in range of the laser.
 
-{: highlight}
+{: .highlight}
 The "Hard" mode spawns more ducks that you can ever kill, but it is a nice showcase of the performances of the game.
