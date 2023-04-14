@@ -26,7 +26,7 @@ You can **[download the game](https://mathematisse.itch.io/My_Hunter)** from itc
 
 Follow the instructions and launch the game with the following command in the downloaded folder :
 
-```bash
+```sh
 ./my_hunter
 ```
 
@@ -36,7 +36,7 @@ You'll also need [CSFML](https://www.sfml-dev.org/download/csfml/) installed.
 
 Once this is done, run the following command in the unpacked folder :
 
-```bash
+```sh
 make && ./my_hunter
 ```
 
@@ -45,7 +45,7 @@ ___
 ## Usage
 
 {: .note }
-> *Ducks are animal, and like us, they poop.*
+> *Ducks are animals, and like us, they poop.*
 > 
 > *For some mysterious reasons thousands of ducks started flying just above you.*
 > 
