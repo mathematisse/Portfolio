@@ -4,11 +4,12 @@ title: My Hunter
 parent: Projects
 nav_order: 1
 ---
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Check_the_repository-blue?style=for-the-badge&logo=github)](https://github.com/mathematisse/My_Hunter)
-[![Itch.io Page](https://img.shields.io/badge/Itch.io-Download_the_game-red?style=for-the-badge&logo=itch.io)](https://mathematisse.itch.io/My_Hunter)
-[Download the game](https://github.com/mathematisse/My_Hunter){: .btn .btn-red .mr-32}
-[Check the repository](https://github.com/mathematisse/My_Hunter){: .btn .btn-blue }
-# My Hunter
+### Links
+> [![Itch.io Page](https://img.shields.io/badge/Itch.io-Download_the_game-red?style=for-the-badge&logo=itch.io)](https://mathematisse.itch.io/My_Hunter)
+> 
+> [![GitHub Repo](https://img.shields.io/badge/GitHub-Check_the_repository-blue?style=for-the-badge&logo=github)](https://github.com/mathematisse/My_Hunter)
+
+# **My Hunter**
 
 My Hunter is an Epitech project made with [CSFML](https://www.sfml-dev.org/download/csfml/).
 This project was created with the goal of getting to know that graphical library, while reproducing (with some creative freedom) the [Duck Hunt game](https://fr.wikipedia.org/wiki/Duck_Hunt).
