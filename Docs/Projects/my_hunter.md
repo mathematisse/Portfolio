@@ -39,18 +39,19 @@ Once this is done, run the following command in the unpacked folder :
 ``
 make && ./my_hunter
 ``
+
 ___
 
 ## Usage
 
 {: .note }
-> Ducks are animal, and like us, they poop.
+> *Ducks are animal, and like us, they poop.*
 > 
-> For some mysterious reasons thousands of ducks started flying just above you.
+> *For some mysterious reasons thousands of ducks started flying just above you.*
 > 
-> You will not be a toilet for ducks.
+> *You will not be a toilet for ducks.*
 > 
-> Good you have this huge laser-gun.
+> *Good you have this huge laser-gun.*
 
 In this game, your goal is to shoot flying ducks with a laser-gun.
 
